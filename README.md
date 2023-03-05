@@ -1,5 +1,5 @@
 # Unity Custom Script Templates #
-###This GitHub project provides custom script templates for Unity that can be used to create customizable script templates from scratch.  ###
+### This GitHub project provides custom script templates for Unity that can be used to create customizable script templates from scratch.  ###
 
 ## Templates ##
 The following templates are included in this project:
